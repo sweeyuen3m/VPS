@@ -1,0 +1,25 @@
+2026-03-22 18:00:02,912 - INFO - ==================================================
+2026-03-22 18:00:02,916 - INFO - Upwork自动申请系统启动
+2026-03-22 18:00:02,916 - INFO - ==================================================
+2026-03-22 18:00:05,529 - INFO - 正在登录Upwork...
+2026-03-22 18:00:46,649 - ERROR - 程序异常: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button[type='submit']")
+    - locator resolved to <button type="submit" tabindex="-1" aria-hidden="true" class="auth-submit-button" data-ev-label="auth_submit_button"></button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    58 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2026-03-22 18:00:46,649 - INFO - ==================================================
+2026-03-22 18:00:46,649 - INFO - 任务完成! 找到 0 个项目，申请 0 个
+2026-03-22 18:00:46,650 - INFO - ==================================================

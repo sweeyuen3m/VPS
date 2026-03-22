@@ -1,0 +1,78 @@
+{
+  "timestamp": "2026-03-22T15:09:59.695131",
+  "sent": 0,
+  "failed": 10,
+  "success_rate": 0.0,
+  "results": [
+    {
+      "name": "Property Agent 1",
+      "urn": "urn:li:person:mock_0",
+      "url": "https://www.linkedin.com/in/mock-user-0/",
+      "status": "failed",
+      "timestamp": "2026-03-22T15:07:46.934861"
+    },
+    {
+      "name": "Property Agent 2",
+      "urn": "urn:li:person:mock_1",
+      "url": "https://www.linkedin.com/in/mock-user-1/",
+      "status": "failed",
+      "timestamp": "2026-03-22T15:08:03.895928"
+    },
+    {
+      "name": "Property Agent 3",
+      "urn": "urn:li:person:mock_2",
+      "url": "https://www.linkedin.com/in/mock-user-2/",
+      "status": "failed",
+      "timestamp": "2026-03-22T15:08:15.633130"
+    },
+    {
+      "name": "Property Agent 4",
+      "urn": "urn:li:person:mock_3",
+      "url": "https://www.linkedin.com/in/mock-user-3/",
+      "status": "failed",
+      "timestamp": "2026-03-22T15:08:27.336856"
+    },
+    {
+      "name": "Property Agent 5",
+      "urn": "urn:li:person:mock_4",
+      "url": "https://www.linkedin.com/in/mock-user-4/",
+      "status": "failed",
+      "timestamp": "2026-03-22T15:08:38.778527"
+    },
+    {
+      "name": "Property Agent 6",
+      "urn": "urn:li:person:mock_5",
+      "url": "https://www.linkedin.com/in/mock-user-5/",
+      "status": "failed",
+      "timestamp": "2026-03-22T15:08:49.713343"
+    },
+    {
+      "name": "Property Agent 7",
+      "urn": "urn:li:person:mock_6",
+      "url": "https://www.linkedin.com/in/mock-user-6/",
+      "status": "failed",
+      "timestamp": "2026-03-22T15:09:06.636232"
+    },
+    {
+      "name": "Property Agent 8",
+      "urn": "urn:li:person:mock_7",
+      "url": "https://www.linkedin.com/in/mock-user-7/",
+      "status": "failed",
+      "timestamp": "2026-03-22T15:09:18.071153"
+    },
+    {
+      "name": "Property Agent 9",
+      "urn": "urn:li:person:mock_8",
+      "url": "https://www.linkedin.com/in/mock-user-8/",
+      "status": "failed",
+      "timestamp": "2026-03-22T15:09:30.383997"
+    },
+    {
+      "name": "Property Agent 10",
+      "urn": "urn:li:person:mock_9",
+      "url": "https://www.linkedin.com/in/mock-user-9/",
+      "status": "failed",
+      "timestamp": "2026-03-22T15:09:43.087148"
+    }
+  ]
+}

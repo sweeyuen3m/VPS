@@ -1,0 +1,186 @@
+Traceback (most recent call last):
+  File "/root/apex-automation/scripts/linkedin-auto-message.py", line 11, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "/root/apex-automation/scripts/linkedin-auto-message.py", line 11, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+2026-03-22 14:34:56,323 - INFO - 🚀 开始 LinkedIn 自动私信任务
+2026-03-22 14:34:56,324 - INFO - ⏰ 开始时间: 2026-03-22 14:34:56
+2026-03-22 14:34:56,324 - WARNING - ⚠️ LinkedInAutomation 模块未加载
+2026-03-22 14:34:56,324 - INFO - 🌐 切换到 Selenium 模式
+2026-03-22 14:34:56,324 - INFO - ====== WebDriver manager ======
+2026-03-22 14:34:56,335 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-22 14:34:56,397 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2026-03-22 14:34:56,455 - INFO - Driver downloading response is 200
+2026-03-22 14:34:56,507 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-22 14:34:56,762 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-22 14:34:56,853 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2026-03-22 14:36:18,188 - INFO - 🚀 开始 LinkedIn 自动私信任务
+2026-03-22 14:36:18,188 - INFO - ⏰ 开始时间: 2026-03-22 14:36:18
+2026-03-22 14:36:18,188 - WARNING - ⚠️ LinkedInAutomation 模块未加载
+2026-03-22 14:36:18,188 - INFO - 🌐 切换到 Selenium 模式
+2026-03-22 14:36:18,189 - INFO - ====== WebDriver manager ======
+2026-03-22 14:36:18,198 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-22 14:36:18,257 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2026-03-22 14:36:18,313 - INFO - Driver downloading response is 200
+2026-03-22 14:36:18,359 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-22 14:36:18,579 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-22 14:36:18,642 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2026-03-22 14:37:18,829 - ERROR - ❌ Selenium Bot 初始化失败: Message: unknown error: DevToolsActivePort file doesn't exist
+Stacktrace:
+#0 0x5ac78bd944e3 <unknown>
+#1 0x5ac78bac3c76 <unknown>
+#2 0x5ac78baf0019 <unknown>
+#3 0x5ac78baec2fa <unknown>
+#4 0x5ac78bae9029 <unknown>
+#5 0x5ac78bb27ccc <unknown>
+#6 0x5ac78bb2747f <unknown>
+#7 0x5ac78bb1ede3 <unknown>
+#8 0x5ac78baf42dd <unknown>
+#9 0x5ac78baf534e <unknown>
+#10 0x5ac78bd543e4 <unknown>
+#11 0x5ac78bd583d7 <unknown>
+#12 0x5ac78bd62b20 <unknown>
+#13 0x5ac78bd59023 <unknown>
+#14 0x5ac78bd271aa <unknown>
+#15 0x5ac78bd7d6b8 <unknown>
+#16 0x5ac78bd7d847 <unknown>
+#17 0x5ac78bd8d243 <unknown>
+#18 0x74066fc9caa4 <unknown>
+#19 0x74066fd29c3c <unknown>
+
+2026-03-22 14:37:18,830 - ERROR - ❌ 无法初始化 Selenium，退出
+2026-03-22 14:38:31,768 - INFO - 🚀 开始 LinkedIn 自动私信任务
+2026-03-22 14:38:31,769 - INFO - ⏰ 开始时间: 2026-03-22 14:38:31
+2026-03-22 14:38:31,769 - WARNING - ⚠️ LinkedInAutomation 模块未加载
+2026-03-22 14:38:31,769 - INFO - 🌐 切换到 Selenium 模式
+2026-03-22 14:38:31,769 - INFO - ====== WebDriver manager ======
+2026-03-22 14:38:31,781 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-22 14:38:31,860 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_linux64.zip
+2026-03-22 14:38:31,923 - INFO - Driver downloading response is 200
+2026-03-22 14:38:31,968 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-22 14:38:32,197 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-22 14:38:32,267 - INFO - Driver has been saved in cache [/root/.wdm/drivers/chromedriver/linux64/114.0.5735.90]
+2026-03-22 14:38:33,145 - ERROR - ❌ Selenium Bot 初始化失败: Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 146.0.7680.80 with binary path /usr/bin/chromium-browser
+Stacktrace:
+#0 0x5b89944894e3 <unknown>
+#1 0x5b89941b8c76 <unknown>
+#2 0x5b89941e604a <unknown>
+#3 0x5b89941e14a1 <unknown>
+#4 0x5b89941de029 <unknown>
+#5 0x5b899421cccc <unknown>
+#6 0x5b899421c47f <unknown>
+#7 0x5b8994213de3 <unknown>
+#8 0x5b89941e92dd <unknown>
+#9 0x5b89941ea34e <unknown>
+#10 0x5b89944493e4 <unknown>
+#11 0x5b899444d3d7 <unknown>
+#12 0x5b8994457b20 <unknown>
+#13 0x5b899444e023 <unknown>
+#14 0x5b899441c1aa <unknown>
+#15 0x5b89944726b8 <unknown>
+#16 0x5b8994472847 <unknown>
+#17 0x5b8994482243 <unknown>
+#18 0x7de504c9caa4 <unknown>
+#19 0x7de504d29c3c <unknown>
+
+2026-03-22 14:38:33,146 - ERROR - ❌ 无法初始化 Selenium，退出
+2026-03-22 14:40:05,432 - INFO - 🚀 开始 LinkedIn 自动私信任务
+2026-03-22 14:40:05,432 - INFO - ⏰ 开始时间: 2026-03-22 14:40:05
+2026-03-22 14:40:05,432 - WARNING - ⚠️ LinkedInAutomation 模块未加载
+2026-03-22 14:40:05,432 - INFO - 🌐 切换到 Selenium 模式
+2026-03-22 14:40:06,367 - INFO - ✅ Selenium Bot 初始化成功
+2026-03-22 14:40:06,369 - WARNING - ⚠️ 未找到目标文件，使用模拟数据测试
+2026-03-22 14:40:06,369 - INFO - 📊 目标用户数: 5
+2026-03-22 14:40:06,369 - INFO - 🎯 最大发送数: 30
+2026-03-22 14:40:06,369 - INFO - ⏸️ 延迟 7.4 秒...
+2026-03-22 14:40:13,789 - INFO - ⏸️ 延迟 9.5 秒...
+2026-03-22 14:40:23,263 - INFO - ⏸️ 延迟 8.1 秒...
+2026-03-22 14:40:31,373 - INFO - ⏸️ 延迟 6.0 秒...
+2026-03-22 14:40:37,356 - INFO - ⏸️ 延迟 8.4 秒...
+2026-03-22 14:40:45,743 - INFO - ✅ 结果已保存到: /root/apex-automation/logs/linkedin_results_20260322_144045.json
+2026-03-22 14:40:45,743 - WARNING - ⚠️ EmailSender 模块未加载
+2026-03-22 14:40:45,880 - INFO - ✅ 任务完成！发送 0 条，失败 0 条
+2026-03-22 16:00:02,869 - INFO - 🚀 开始 LinkedIn 自动私信任务
+2026-03-22 16:00:02,869 - INFO - ⏰ 开始时间: 2026-03-22 16:00:02
+2026-03-22 16:00:02,869 - INFO - ✅ LinkedIn API Bot 初始化成功
+2026-03-22 16:00:02,870 - INFO - 📝 Access Token: AQUKk5xme41ml6GQImUoj0PnshjgGX...
+2026-03-22 16:00:02,870 - INFO - 📡 使用 LinkedIn API 模式
+2026-03-22 16:00:02,871 - INFO - 📋 从文件加载 3 个目标
+2026-03-22 16:00:02,871 - INFO - 📊 目标用户数: 3
+2026-03-22 16:00:02,871 - INFO - 🎯 最大发送数: 30
+2026-03-22 16:00:02,886 - INFO - 🚀 开始 LinkedIn 自动私信任务
+2026-03-22 16:00:02,887 - INFO - ⏰ 开始时间: 2026-03-22 16:00:02
+2026-03-22 16:00:02,887 - INFO - ✅ LinkedIn API Bot 初始化成功
+2026-03-22 16:00:02,887 - INFO - 📡 使用 LinkedIn API 模式
+2026-03-22 16:00:02,887 - INFO - 📋 从文件加载 3 个目标
+2026-03-22 16:00:02,887 - INFO - 📊 目标用户数: 3
+2026-03-22 16:00:02,887 - INFO - 🎯 最大发送数: 30
+2026-03-22 16:00:03,191 - ERROR - ❌ API 请求失败: 403 - {"status":403,"serviceErrorCode":100,"code":"ACCESS_DENIED","message":"Not enough permissions to access: messages.CREATE.NO_VERSION"}
+2026-03-22 16:00:03,193 - ERROR - ❌ 私信发送失败: urn:li:person:EXAMPLE_001
+2026-03-22 16:00:03,194 - INFO - ⏸️ 延迟 19.1 秒...
+2026-03-22 16:00:03,212 - ERROR - ❌ API 请求失败: 403 - {"status":403,"serviceErrorCode":100,"code":"ACCESS_DENIED","message":"Not enough permissions to access: messages.CREATE.NO_VERSION"}
+2026-03-22 16:00:03,214 - ERROR - ❌ 私信发送失败: urn:li:person:EXAMPLE_001
+2026-03-22 16:00:03,214 - INFO - ⏸️ 延迟 9.3 秒...
+2026-03-22 16:00:12,795 - ERROR - ❌ API 请求失败: 403 - {"status":403,"serviceErrorCode":100,"code":"ACCESS_DENIED","message":"Not enough permissions to access: messages.CREATE.NO_VERSION"}
+2026-03-22 16:00:12,797 - ERROR - ❌ 私信发送失败: urn:li:person:EXAMPLE_002
+2026-03-22 16:00:12,797 - INFO - ⏸️ 延迟 8.9 秒...
+2026-03-22 16:00:21,973 - ERROR - ❌ API 请求失败: 403 - {"status":403,"serviceErrorCode":100,"code":"ACCESS_DENIED","message":"Not enough permissions to access: messages.CREATE.NO_VERSION"}
+2026-03-22 16:00:21,974 - ERROR - ❌ 私信发送失败: urn:li:person:EXAMPLE_003
+2026-03-22 16:00:21,975 - INFO - ⏸️ 延迟 9.0 秒...
+2026-03-22 16:00:22,584 - ERROR - ❌ API 请求失败: 403 - {"status":403,"serviceErrorCode":100,"code":"ACCESS_DENIED","message":"Not enough permissions to access: messages.CREATE.NO_VERSION"}
+2026-03-22 16:00:22,585 - ERROR - ❌ 私信发送失败: urn:li:person:EXAMPLE_002
+2026-03-22 16:00:22,585 - INFO - ⏸️ 延迟 11.1 秒...
+2026-03-22 16:00:30,933 - INFO - ✅ 结果已保存到: /root/apex-automation/logs/linkedin_results_20260322_160030.json
+2026-03-22 16:00:33,965 - ERROR - ❌ API 请求失败: 403 - {"status":403,"serviceErrorCode":100,"code":"ACCESS_DENIED","message":"Not enough permissions to access: messages.CREATE.NO_VERSION"}
+2026-03-22 16:00:33,967 - ERROR - ❌ 私信发送失败: urn:li:person:EXAMPLE_003
+2026-03-22 16:00:33,967 - INFO - ⏸️ 延迟 17.6 秒...
+2026-03-22 16:00:51,563 - INFO - ✅ 结果已保存到: /root/apex-automation/logs/linkedin_results_20260322_160051.json
+2026-03-22 16:04:59,082 - ERROR - ❌ 发送邮件失败 (sweeyuen3@apexspeedlabs.com): [Errno 110] Connection timed out
+2026-03-22 16:04:59,082 - INFO - ✅ 通知邮件已发送
+2026-03-22 16:04:59,082 - INFO - ✅ 任务完成！发送 0 条，失败 3 条
+2026-03-22 16:05:19,562 - ERROR - ❌ 发送邮件失败 (sweeyuen3@apexspeedlabs.com): [Errno 110] Connection timed out
+2026-03-22 16:05:19,562 - INFO - ✅ 通知邮件已发送
+2026-03-22 16:05:19,562 - INFO - ✅ 任务完成！发送 0 条，失败 3 条
+2026-03-22 16:05:19,562 - INFO - ⏰ 结束时间: 2026-03-22 16:05:19
+2026-03-22 18:00:02,926 - INFO - ==================================================
+2026-03-22 18:00:02,927 - INFO - LinkedIn自动私信系统启动
+2026-03-22 18:00:02,927 - INFO - ==================================================
+2026-03-22 18:00:05,464 - INFO - 正在登录LinkedIn...
+2026-03-22 18:00:11,270 - INFO - 登录完成
+2026-03-22 18:00:11,270 - INFO - 正在发送私信给 John Tan...
+2026-03-22 18:00:11,848 - WARNING - ❌ 私信发送失败: John Tan
+2026-03-22 18:00:11,848 - INFO - 等待 20 秒...
+2026-03-22 18:00:31,866 - INFO - 正在发送私信给 Sarah Lee...
+2026-03-22 18:00:31,886 - WARNING - ❌ 私信发送失败: Sarah Lee
+2026-03-22 18:00:31,886 - INFO - 等待 21 秒...
+2026-03-22 18:00:52,888 - INFO - 正在发送私信给 Michael Chen...
+2026-03-22 18:00:52,912 - WARNING - ❌ 私信发送失败: Michael Chen
+2026-03-22 18:00:52,912 - INFO - 等待 20 秒...
+2026-03-22 18:01:12,915 - INFO - 正在发送私信给 Emily Wong...
+2026-03-22 18:01:12,937 - WARNING - ❌ 私信发送失败: Emily Wong
+2026-03-22 18:01:12,937 - INFO - 等待 23 秒...
+2026-03-22 18:01:35,940 - INFO - 正在发送私信给 David Lim...
+2026-03-22 18:01:35,961 - WARNING - ❌ 私信发送失败: David Lim
+2026-03-22 18:01:35,962 - INFO - 等待 21 秒...
+2026-03-22 18:01:56,964 - INFO - 正在发送私信给 Rachel Goh...
+2026-03-22 18:01:56,980 - WARNING - ❌ 私信发送失败: Rachel Goh
+2026-03-22 18:01:56,981 - INFO - 等待 27 秒...
+2026-03-22 18:02:23,982 - INFO - 正在发送私信给 James Ng...
+2026-03-22 18:02:23,999 - WARNING - ❌ 私信发送失败: James Ng
+2026-03-22 18:02:23,999 - INFO - 等待 14 秒...
+2026-03-22 18:02:38,000 - INFO - 正在发送私信给 Amanda Koh...
+2026-03-22 18:02:38,016 - WARNING - ❌ 私信发送失败: Amanda Koh
+2026-03-22 18:02:38,016 - INFO - 等待 28 秒...
+2026-03-22 18:03:06,018 - INFO - 正在发送私信给 Kevin Ho...
+2026-03-22 18:03:06,037 - WARNING - ❌ 私信发送失败: Kevin Ho
+2026-03-22 18:03:06,037 - INFO - 等待 24 秒...
+2026-03-22 18:03:30,039 - INFO - 正在发送私信给 Michelle Tay...
+2026-03-22 18:03:30,055 - WARNING - ❌ 私信发送失败: Michelle Tay
+2026-03-22 18:03:30,055 - INFO - 等待 23 秒...
+2026-03-22 18:03:53,151 - INFO - ==================================================
+2026-03-22 18:03:53,152 - INFO - 任务完成! 发送 0 条，失败 10 条
+2026-03-22 18:03:53,152 - INFO - ==================================================

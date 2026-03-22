@@ -1,0 +1,48 @@
+{
+  "timestamp": "2026-03-22T18:14:14.600549",
+  "followup": 5,
+  "failed": 0,
+  "success_rate": 100.0,
+  "results": [
+    {
+      "lead_id": "lead_001",
+      "name": "John Tan",
+      "email": "john.tan@example.com",
+      "followup_type": "first_contact",
+      "success": true,
+      "timestamp": "2026-03-22T18:10:01.684331"
+    },
+    {
+      "lead_id": "lead_002",
+      "name": "Sarah Lee",
+      "email": "sarah.lee@example.com",
+      "followup_type": "first_contact",
+      "success": true,
+      "timestamp": "2026-03-22T18:10:51.324151"
+    },
+    {
+      "lead_id": "lead_003",
+      "name": "Michael Chen",
+      "email": "michael.chen@example.com",
+      "followup_type": "first_contact",
+      "success": true,
+      "timestamp": "2026-03-22T18:11:45.196244"
+    },
+    {
+      "lead_id": "lead_004",
+      "name": "Emily Wong",
+      "email": "emily.wong@example.com",
+      "followup_type": "first_contact",
+      "success": true,
+      "timestamp": "2026-03-22T18:12:34.763827"
+    },
+    {
+      "lead_id": "lead_005",
+      "name": "David Lim",
+      "email": "david.lim@example.com",
+      "followup_type": "first_contact",
+      "success": true,
+      "timestamp": "2026-03-22T18:13:33.075445"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-03-22T14:40:45.742758",
+  "sent": 0,
+  "failed": 0,
+  "success_rate": 0,
+  "results": [
+    {
+      "name": "Test Agent 1",
+      "urn": "urn:li:person:test_0",
+      "status": "failed",
+      "timestamp": "2026-03-22T14:40:06.369857"
+    },
+    {
+      "name": "Test Agent 2",
+      "urn": "urn:li:person:test_1",
+      "status": "failed",
+      "timestamp": "2026-03-22T14:40:13.789309"
+    },
+    {
+      "name": "Test Agent 3",
+      "urn": "urn:li:person:test_2",
+      "status": "failed",
+      "timestamp": "2026-03-22T14:40:23.263783"
+    },
+    {
+      "name": "Test Agent 4",
+      "urn": "urn:li:person:test_3",
+      "status": "failed",
+      "timestamp": "2026-03-22T14:40:31.373514"
+    },
+    {
+      "name": "Test Agent 5",
+      "urn": "urn:li:person:test_4",
+      "status": "failed",
+      "timestamp": "2026-03-22T14:40:37.356881"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-03-22T15:42:15.506275",
+  "sent": 0,
+  "failed": 3,
+  "success_rate": 0.0,
+  "results": [
+    {
+      "name": "Example Agent 1",
+      "urn": "urn:li:person:EXAMPLE_001",
+      "url": "https://www.linkedin.com/in/example-agent-1/",
+      "status": "failed",
+      "timestamp": "2026-03-22T15:41:38.878312"
+    },
+    {
+      "name": "Example Agent 2",
+      "urn": "urn:li:person:EXAMPLE_002",
+      "url": "https://www.linkedin.com/in/example-agent-2/",
+      "status": "failed",
+      "timestamp": "2026-03-22T15:41:53.382476"
+    },
+    {
+      "name": "Example Agent 3",
+      "urn": "urn:li:person:EXAMPLE_003",
+      "url": "https://www.linkedin.com/in/example-agent-3/",
+      "status": "failed",
+      "timestamp": "2026-03-22T15:42:04.534893"
+    }
+  ]
+}

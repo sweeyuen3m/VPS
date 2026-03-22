@@ -1,0 +1,73 @@
+Traceback (most recent call last):
+  File "/root/apex-automation/scripts/upwork-auto-apply.py", line 11, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "/root/apex-automation/scripts/upwork-auto-apply.py", line 11, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "/root/apex-automation/scripts/upwork-auto-apply.py", line 11, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "/root/apex-automation/scripts/upwork-auto-apply.py", line 11, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+Traceback (most recent call last):
+  File "/root/apex-automation/scripts/upwork-auto-apply.py", line 11, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+2026-03-22 14:30:01,547 - ERROR - 浏览器启动失败: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-03-22 14:30:01,547 - ERROR - 执行失败: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-03-22 15:00:01,554 - ERROR - 浏览器启动失败: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-03-22 15:00:01,554 - ERROR - 执行失败: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-03-22 15:30:01,930 - ERROR - 浏览器启动失败: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-03-22 15:30:01,930 - ERROR - 执行失败: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-03-22 16:00:02,635 - ERROR - 浏览器启动失败: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-03-22 16:00:02,635 - ERROR - 执行失败: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-03-22 16:30:02,037 - ERROR - 浏览器启动失败: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-03-22 16:30:02,037 - ERROR - 执行失败: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-03-22 17:00:02,104 - ERROR - 浏览器启动失败: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-03-22 17:00:02,104 - ERROR - 执行失败: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-03-22 17:30:01,867 - ERROR - 浏览器启动失败: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-03-22 17:30:01,867 - ERROR - 执行失败: Message: Unable to obtain driver for chrome using Selenium Manager.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+2026-03-22 18:00:02,912 - INFO - ==================================================
+2026-03-22 18:00:02,916 - INFO - Upwork自动申请系统启动
+2026-03-22 18:00:02,916 - INFO - ==================================================
+2026-03-22 18:00:05,529 - INFO - 正在登录Upwork...
+2026-03-22 18:00:46,649 - ERROR - 程序异常: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button[type='submit']")
+    - locator resolved to <button type="submit" tabindex="-1" aria-hidden="true" class="auth-submit-button" data-ev-label="auth_submit_button"></button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    58 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2026-03-22 18:00:46,649 - INFO - ==================================================
+2026-03-22 18:00:46,649 - INFO - 任务完成! 找到 0 个项目，申请 0 个
+2026-03-22 18:00:46,650 - INFO - ==================================================

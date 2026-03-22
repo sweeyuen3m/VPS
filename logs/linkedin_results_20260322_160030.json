@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-03-22T16:00:30.932633",
+  "sent": 0,
+  "failed": 3,
+  "success_rate": 0.0,
+  "results": [
+    {
+      "name": "Example Agent 1",
+      "urn": "urn:li:person:EXAMPLE_001",
+      "status": "failed",
+      "timestamp": "2026-03-22T16:00:03.214909"
+    },
+    {
+      "name": "Example Agent 2",
+      "urn": "urn:li:person:EXAMPLE_002",
+      "status": "failed",
+      "timestamp": "2026-03-22T16:00:12.797810"
+    },
+    {
+      "name": "Example Agent 3",
+      "urn": "urn:li:person:EXAMPLE_003",
+      "status": "failed",
+      "timestamp": "2026-03-22T16:00:21.975501"
+    }
+  ]
+}

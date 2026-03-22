@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-03-22T18:00:02.927343",
+  "messages_sent": 0,
+  "messages_failed": 10,
+  "recipients": [
+    {
+      "name": "John Tan",
+      "success": false
+    },
+    {
+      "name": "Sarah Lee",
+      "success": false
+    },
+    {
+      "name": "Michael Chen",
+      "success": false
+    },
+    {
+      "name": "Emily Wong",
+      "success": false
+    },
+    {
+      "name": "David Lim",
+      "success": false
+    },
+    {
+      "name": "Rachel Goh",
+      "success": false
+    },
+    {
+      "name": "James Ng",
+      "success": false
+    },
+    {
+      "name": "Amanda Koh",
+      "success": false
+    },
+    {
+      "name": "Kevin Ho",
+      "success": false
+    },
+    {
+      "name": "Michelle Tay",
+      "success": false
+    }
+  ]
+}
