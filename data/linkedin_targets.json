@@ -1,0 +1,27 @@
+[
+  {
+    "name": "E-commerce Manager",
+    "industry": "E-commerce",
+    "profile": "shopee"
+  },
+  {
+    "name": "Retail Owner",
+    "industry": "Retail",
+    "profile": "lazada"
+  },
+  {
+    "name": "Restaurant Manager",
+    "industry": "F&B",
+    "profile": "restaurant"
+  },
+  {
+    "name": "Shop Owner",
+    "industry": "Online Shop",
+    "profile": "shopee"
+  },
+  {
+    "name": "Business Owner",
+    "industry": "Small Business",
+    "profile": "business"
+  }
+]

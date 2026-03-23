@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/root/apex-automation/twitter_auto.py", line 14, in <module>
+    from mastodon import Mastodon
+ModuleNotFoundError: No module named 'mastodon'

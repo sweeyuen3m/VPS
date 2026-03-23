@@ -10,7 +10,9 @@ import json
 import random
 import logging
 from datetime import datetime
+from smart_delay_manager import SmartDelayManager
 from playwright.sync_api import sync_playwright
+from browser_resource_manager import create_browser
 
 # 配置日志
 LOG_DIR = "/root/apex-automation/logs"
@@ -166,6 +168,9 @@ def send_message(page, recipient_name, message):
         return False
 
 def main():
+    # 初始化智能延迟管理器
+    delay_manager = SmartDelayManager()
+    logger.info("智能延迟管理器已启动")
     """主函数"""
     logger.info("="*50)
     logger.info("LinkedIn自动私信系统启动")
@@ -191,12 +196,8 @@ def main():
             json.dump(targets, f, indent=2)
     
     try:
-        with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            context = browser.new_context(
-                user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-            )
-            page = context.new_page()
+        with create_browser(headless=True) as (browser, context, page):
+            logger.info('浏览器资源管理器已激活')
             
             # 登录
             if not login_to_linkedin(page, config):
@@ -204,29 +205,39 @@ def main():
                 return
             
             # 发送私信
-            max_messages = 20  # 每天最多20条
+            max_messages = 150  # 每天最多150条（安全阈值）
             for i, target in enumerate(targets[:max_messages]):
+                # 检查是否可以发送消息（限制检查）
+                can_send, reason = delay_manager.can_send_message()
+                if not can_send:
+                    logger.warning(f"停止发送: {reason}")
+                    break
+                
                 # 选择模板
                 template = random.choice(MESSAGE_TEMPLATES)
                 message = template.format(
                     name=target['name'],
                     industry=target.get('industry', 'business')
                 )
-                
+
                 if send_message(page, target['name'], message):
                     results['messages_sent'] += 1
+                    delay_manager.record_result(True)
+                    delay_manager.record_message_sent()
                 else:
                     results['messages_failed'] += 1
-                
+                    delay_manager.record_result(False)
+
                 results['recipients'].append({
                     'name': target['name'],
-                    'success': results['messages_sent'] > 0
+                    'success': send_message(page, target['name'], message)
                 })
-                
-                # 随机延迟
-                delay = random.randint(10, 30)
-                logger.info(f"等待 {delay} 秒...")
-                page.wait_for_timeout(delay * 1000)
+
+                # 智能延迟
+                delay = delay_manager.calculate_delay()
+                stats = delay_manager.get_stats()
+                logger.info(f"等待 {delay:.1f}s | 成功率: {stats['success_rate']}% | 今日: {stats['today_messages']}/{stats['hourly_messages']}(每小时)")
+                page.wait_for_timeout(int(delay * 1000))
                 
                 # 检查是否达到上限
                 if results['messages_sent'] + results['messages_failed'] >= max_messages:
@@ -242,8 +253,12 @@ def main():
     with open(result_file, 'w') as f:
         json.dump(results, f, indent=2)
     
+    # 输出智能延迟管理器统计
+    stats = delay_manager.get_stats()
     logger.info("="*50)
     logger.info(f"任务完成! 发送 {results['messages_sent']} 条，失败 {results['messages_failed']} 条")
+    logger.info(f"智能延迟统计: 成功率 {stats['success_rate']}% | 平均延迟 {stats['current_delay']:.1f}s")
+    logger.info(f"今日消息: {stats['today_messages']}/{stats['hourly_messages']} (每小时)")
     logger.info("="*50)
     
     return results

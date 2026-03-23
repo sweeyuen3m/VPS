@@ -1,0 +1,87 @@
+{
+  "linkedin_messages": {
+    "name": "LinkedIn \u79c1\u4fe1\u8bdd\u672f\u6d4b\u8bd5",
+    "type": "message",
+    "variants": [
+      {
+        "id": "linkedin_v1",
+        "name": "\u7248\u672c 1 - \u4ef7\u503c\u5bfc\u5411",
+        "content": "Hi {name},\n\nI noticed you're working in {industry} - great to connect!\n\nQuick question: Are you spending too much time on repetitive customer messages?\n\nWe help businesses automate these with AI - saving 10+ hours/week. Currently offering 30% OFF for new clients.\n\nWould you be open to a free 15-min demo?\n\nBest,\nStark\nApex Speed Labs",
+        "weight": 10,
+        "stats": {
+          "sent": 1,
+          "replied": 0,
+          "converted": 0
+        }
+      },
+      {
+        "id": "linkedin_v2",
+        "name": "\u7248\u672c 2 - \u6210\u529f\u6545\u4e8b",
+        "content": "Hi {name},\n\nCongrats on your success in {industry}!\n\nI help businesses like yours automate customer service with AI. Our clients typically save 10+ hours per week.\n\nCurrently offering 30% OFF + 14-day money-back guarantee.\n\nInterested in a quick demo?\n\nBest,\nStark\nApex Speed Labs",
+        "weight": 10,
+        "stats": {
+          "sent": 0,
+          "replied": 0,
+          "converted": 0
+        }
+      },
+      {
+        "id": "linkedin_v3",
+        "name": "\u7248\u672c 3 - \u75db\u70b9\u63d0\u95ee",
+        "content": "Hi {name},\n\nGreat to connect with someone in {industry}!\n\nQuick question: Are you tired of answering same questions over and over?\n\nWe help businesses automate these with AI - 24/7 support, instant responses.\n\nFree 15-min demo? No commitment needed.\n\nBest,\nStark\nApex Speed Labs",
+        "weight": 10,
+        "stats": {
+          "sent": 0,
+          "replied": 0,
+          "converted": 0
+        }
+      }
+    ],
+    "created_at": "2026-03-22T21:10:54.280242",
+    "status": "active"
+  },
+  "email_subjects": {
+    "name": "Email \u4e3b\u9898\u884c\u6d4b\u8bd5",
+    "type": "email_subject",
+    "variants": [
+      {
+        "id": "email_subject_v1",
+        "name": "\u7248\u672c 1 - \u76f4\u63a5\u5229\u76ca",
+        "content": "Save 10+ hours/week with AI automation",
+        "weight": 10,
+        "stats": {
+          "sent": 0,
+          "opened": 0,
+          "clicked": 0,
+          "converted": 0
+        }
+      },
+      {
+        "id": "email_subject_v2",
+        "name": "\u7248\u672c 2 - \u597d\u5947\u5fc3\u9a71\u52a8",
+        "content": "Quick question about your {industry} business",
+        "weight": 10,
+        "stats": {
+          "sent": 0,
+          "opened": 0,
+          "clicked": 0,
+          "converted": 0
+        }
+      },
+      {
+        "id": "email_subject_v3",
+        "name": "\u7248\u672c 3 - \u7d27\u6025\u611f",
+        "content": "Limited time: 30% OFF AI automation (expires soon)",
+        "weight": 10,
+        "stats": {
+          "sent": 0,
+          "opened": 0,
+          "clicked": 0,
+          "converted": 0
+        }
+      }
+    ],
+    "created_at": "2026-03-22T21:10:54.280258",
+    "status": "active"
+  }
+}

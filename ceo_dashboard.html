@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apex Speed Labs - CEO Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); min-height: 100vh; color: #fff; }
+        .container { max-width: 1400px; margin: 0 auto; padding: 20px; }
+        
+        /* Header */
+        .header { text-align: center; padding: 30px 0; border-bottom: 2px solid rgba(255,255,255,0.1); margin-bottom: 30px; }
+        .header h1 { font-size: 2.5em; background: linear-gradient(90deg, #00d4ff, #7c3aed); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .header p { color: #888; margin-top: 10px; }
+        
+        /* Status Cards */
+        .status-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 30px; }
+        .status-card { background: rgba(255,255,255,0.05); border-radius: 15px; padding: 25px; text-align: center; border: 1px solid rgba(255,255,255,0.1); transition: transform 0.3s; }
+        .status-card:hover { transform: translateY(-5px); }
+        .status-card .icon { font-size: 3em; margin-bottom: 15px; }
+        .status-card .value { font-size: 2em; font-weight: bold; color: #00d4ff; }
+        .status-card .label { color: #888; margin-top: 5px; }
+        .status-card.success { border-color: #00ff88; }
+        .status-card.success .value { color: #00ff88; }
+        .status-card.warning { border-color: #ffaa00; }
+        .status-card.warning .value { color: #ffaa00; }
+        .status-card.danger { border-color: #ff4757; }
+        .status-card.danger .value { color: #ff4757; }
+        
+        /* Platform Grid */
+        .section-title { font-size: 1.5em; margin: 30px 0 20px; padding-left: 15px; border-left: 4px solid #7c3aed; }
+        .platform-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px; }
+        
+        .platform-card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+            border: 1px solid rgba(255,255,255,0.1);
+            transition: all 0.3s;
+        }
+        .platform-card:hover { background: rgba(255,255,255,0.1); border-color: rgba(255,255,255,0.2); }
+        .platform-card .platform-icon { font-size: 2.5em; margin-bottom: 10px; }
+        .platform-card .platform-name { font-size: 1.1em; font-weight: bold; margin-bottom: 10px; }
+        .platform-card .platform-stats { font-size: 0.9em; color: #888; }
+        .platform-card .stat-row { display: flex; justify-content: space-between; padding: 5px 0; border-bottom: 1px solid rgba(255,255,255,0.05); }
+        .platform-card .stat-row:last-child { border-bottom: none; }
+        .platform-card .stat-value { color: #00d4ff; font-weight: bold; }
+        .platform-card .status { display: inline-block; padding: 3px 10px; border-radius: 20px; font-size: 0.8em; margin-top: 10px; }
+        .platform-card .status.active { background: rgba(0,255,136,0.2); color: #00ff88; }
+        .platform-card .status.inactive { background: rgba(255,71,87,0.2); color: #ff4757; }
+        .platform-card .status.pending { background: rgba(255,170,0,0.2); color: #ffaa00; }
+        
+        /* Revenue Section */
+        .revenue-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-bottom: 30px; }
+        .revenue-card { background: linear-gradient(135deg, rgba(124,58,237,0.2), rgba(0,212,255,0.2)); border-radius: 15px; padding: 25px; border: 1px solid rgba(124,58,237,0.3); }
+        .revenue-card h3 { color: #7c3aed; margin-bottom: 15px; font-size: 1.1em; }
+        .revenue-card .amount { font-size: 2.5em; font-weight: bold; color: #00d4ff; }
+        .revenue-card .target { color: #888; font-size: 0.9em; margin-top: 10px; }
+        .revenue-card .progress-bar { height: 8px; background: rgba(255,255,255,0.1); border-radius: 4px; margin-top: 15px; overflow: hidden; }
+        .revenue-card .progress { height: 100%; background: linear-gradient(90deg, #7c3aed, #00d4ff); border-radius: 4px; transition: width 0.5s; }
+        
+        /* Logs */
+        .log-section { background: rgba(0,0,0,0.3); border-radius: 15px; padding: 20px; margin-top: 30px; }
+        .log-section h3 { margin-bottom: 15px; color: #888; }
+        .log-list { max-height: 300px; overflow-y: auto; font-family: 'Monaco', 'Menlo', monospace; font-size: 0.85em; }
+        .log-item { padding: 8px 12px; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; justify-content: space-between; }
+        .log-item:hover { background: rgba(255,255,255,0.05); }
+        .log-time { color: #888; }
+        .log-platform { color: #00d4ff; }
+        .log-status { color: #00ff88; }
+        
+        /* Footer */
+        .footer { text-align: center; padding: 30px 0; margin-top: 50px; border-top: 1px solid rgba(255,255,255,0.1); color: #666; }
+        .footer .auto-badge { display: inline-block; background: linear-gradient(90deg, #00ff88, #00d4ff); color: #000; padding: 8px 20px; border-radius: 20px; font-weight: bold; }
+        
+        /* Auto Refresh */
+        .refresh-info { text-align: center; color: #666; margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>Apex Speed Labs</h1>
+            <p>CEO Dashboard - Money Breeding Machine v3.1</p>
+            <p style="color: #00ff88; margin-top: 15px;">
+                <span class="auto-badge">⚡ FULL AUTO MODE</span>
+            </p>
+        </div>
+        
+        <!-- Quick Stats -->
+        <div class="status-grid">
+            <div class="status-card success">
+                <div class="icon">🖥️</div>
+                <div class="value" id="vps-status">在线</div>
+                <div class="label">VPS (167.71.120.132)</div>
+            </div>
+            <div class="status-card success">
+                <div class="icon">☁️</div>
+                <div class="value">2/2</div>
+                <div class="label">云服务</div>
+            </div>
+            <div class="status-card success">
+                <div class="icon">⚡</div>
+                <div class="value" id="total-runs">0</div>
+                <div class="label">今日自动化执行</div>
+            </div>
+            <div class="status-card">
+                <div class="icon">💰</div>
+                <div class="value" id="stripe-balance">$0</div>
+                <div class="label">Stripe 余额</div>
+            </div>
+        </div>
+        
+        <!-- Revenue Status -->
+        <h2 class="section-title">💰 收入目标</h2>
+        <div class="revenue-grid">
+            <div class="revenue-card">
+                <h3>本周目标</h3>
+                <div class="amount">$500 - $2,000</div>
+                <div class="progress-bar"><div class="progress" style="width: 0%"></div></div>
+                <div class="target">当前进度: 0%</div>
+            </div>
+            <div class="revenue-card">
+                <h3>本月目标</h3>
+                <div class="amount">$3,000 - $10,000</div>
+                <div class="progress-bar"><div class="progress" style="width: 0%"></div></div>
+                <div class="target">当前进度: 0%</div>
+            </div>
+            <div class="revenue-card">
+                <h3>本季目标</h3>
+                <div class="amount">$15,000 - $50,000</div>
+                <div class="progress-bar"><div class="progress" style="width: 0%"></div></div>
+                <div class="target">当前进度: 0%</div>
+            </div>
+        </div>
+        
+        <!-- Social Media Platforms -->
+        <h2 class="section-title">📱 社交媒体平台 (14个)</h2>
+        <div class="platform-grid">
+            <div class="platform-card">
+                <div class="platform-icon">🐦</div>
+                <div class="platform-name">Twitter/X</div>
+                <div class="platform-stats">
+                    <div class="stat-row"><span>今日执行</span><span class="stat-value" id="twitter-count">0</span></div>
+                    <div class="stat-row"><span>本周执行</span><span class="stat-value" id="twitter-week">0</span></div>
+                </div>
+                <span class="status active">自动运行</span>
+            </div>
+            
+            <div class="platform-card">
+                <div class="platform-icon">🎵</div>
+                <div class="platform-name">TikTok</div>
+                <div class="platform-stats">
+                    <div class="stat-row"><span>今日执行</span><span class="stat-value" id="tiktok-count">0</span></div>
+                    <div class="stat-row"><span>本周执行</span><span class="stat-value" id="tiktok-week">0</span></div>
+                </div>
+                <span class="status active">自动运行</span>
+            </div>
+            
+            <div class="platform-card">
+                <div class="platform-icon">📹</div>
+                <div class="platform-name">YouTube</div>
+                <div class="platform-stats">
+                    <div class="stat-row"><span>今日执行</span><span class="stat-value" id="youtube-count">0</span></div>
+                    <div class="stat-row"><span>本周执行</span><span class="stat-value" id="youtube-week">0</span></div>
+                </div>
+                <span class="status active">自动运行</span>
+            </div>
+            
+            <div class="platform-card">
+                <div class="platform-icon">📕</div>
+                <div class="platform-name">小红书</div>
+                <div class="platform-stats">
+                    <div class="stat-row"><span>今日执行</span><span class="stat-value" id="xiaohongshu-count">0</span></div>
+                    <div class="stat-row"><span>本周执行</span><span class="stat-value" id="xiaohongshu-week">0</span></div>
+                </div>
+                <span class="status active">自动运行</span>
+            </div>
+            
+            <div class="platform-card">
+                <div class="platform-icon">🎬</div>
+                <div class="platform-name">抖音</div>
+                <div class="platform-stats">
+                    <div class="stat-row"><span>今日执行</span><span class="stat-value" id="douyin-count">0</span></div>
+                    <div class="stat-row"><span>本周执行</span><span class="stat-value" id="douyin-week">0</span></div>
+                </div>
+                <span class="status active">自动运行</span>
+            </div>
+            
+            <div class="platform-card">
+                <div class="platform-icon">📸</div>
+                <div class="platform-name">Instagram</div>
+                <div class="platform-stats">
+                    <div class="stat-row"><span>今日执行</span><span class="stat-value" id="instagram-count">0</span></div>
+                    <div class="stat-row"><span>本周执行</span><span class="stat-value" id="instagram-week">0</span></div>
+                </div>
+                <span class="status active">自动运行</span>
+            </div>
+            
+            <div class="platform-card">
+                <div class="platform-icon">👥</div>
+                <div class="platform-name">Facebook</div>
+                <div class="platform-stats">
+                    <div class="stat-row"><span>今日执行</span><span class="stat-value" id="facebook-count">0</span></div>
+                    <div class="stat-row"><span>本周执行</span><span class="stat-value" id="facebook-week">0</span></div>
+                </div>
+                <span class="status active">自动运行</span>
+            </div>
+        </div>
+        
+        <!-- Business Platforms -->
+        <h2 class="section-title">💼 商业平台 (5个)</h2>
+        <div class="platform-grid">
+            <div class="platform-card">
+                <div class="platform-icon">💼</div>
+                <div class="platform-name">LinkedIn</div>
+                <div class="platform-stats">
+                    <div class="stat-row"><span>今日执行</span><span class="stat-value" id="linkedin-count">0</span></div>
+                    <div class="stat-row"><span>本周私信</span><span class="stat-value" id="linkedin-week">0</span></div>
+                </div>
+                <span class="status active">自动运行</span>
+            </div>
+            
+            <div class="platform-card">
+                <div class="platform-icon">💻</div>
+                <div class="platform-name">Upwork</div>
+                <div class="platform-stats">
+                    <div class="stat-row"><span>今日申请</span><span class="stat-value" id="upwork-count">0</span></div>
+                    <div class="stat-row"><span>本周申请</span><span class="stat-value" id="upwork-week">0</span></div>
+                </div>
+                <span class="status active">自动运行</span>
+            </div>
+            
+            <div class="platform-card">
+                <div class="platform-icon">📱</div>
+                <div class="platform-name">WhatsApp</div>
+                <div class="platform-stats">
+                    <div class="stat-row"><span>今日消息</span><span class="stat-value" id="whatsapp-count">0</span></div>
+                    <div class="stat-row"><span>状态</span><span class="stat-value">就绪</span></div>
+                </div>
+                <span class="status pending">待配置</span>
+            </div>
+            
+            <div class="platform-card">
+                <div class="platform-icon">💬</div>
+                <div class="platform-name">WeChat</div>
+                <div class="platform-stats">
+                    <div class="stat-row"><span>今日执行</span><span class="stat-value" id="wechat-count">0</span></div>
+                    <div class="stat-row"><span>状态</span><span class="stat-value">就绪</span></div>
+                </div>
+                <span class="status pending">待配置</span>
+            </div>
+        </div>
+        
+        <!-- Payment & Monitoring -->
+        <h2 class="section-title">💎 支付与监控 (2个)</h2>
+        <div class="platform-grid">
+            <div class="platform-card">
+                <div class="platform-icon">💳</div>
+                <div class="platform-name">Stripe</div>
+                <div class="platform-stats">
+                    <div class="stat-row"><span>余额</span><span class="stat-value" id="stripe-display">$0</span></div>
+                    <div class="stat-row"><span>总收入</span><span class="stat-value">$0</span></div>
+                </div>
+                <span class="status active">已连接</span>
+            </div>
+            
+            <div class="platform-card">
+                <div class="platform-icon">🔗</div>
+                <div class="platform-name">USDC监控</div>
+                <div class="platform-stats">
+                    <div class="stat-row"><span>今日检查</span><span class="stat-value" id="usdc-count">0</span></div>
+                    <div class="stat-row"><span>状态</span><span class="stat-value">监控中</span></div>
+                </div>
+                <span class="status active">自动监控</span>
+            </div>
+        </div>
+        
+        <!-- Recent Activity -->
+        <div class="log-section">
+            <h3>📊 最近活动</h3>
+            <div class="log-list" id="log-list">
+                <div class="log-item"><span class="log-time">加载中...</span></div>
+            </div>
+        </div>
+        
+        <!-- Footer -->
+        <div class="footer">
+            <p>VPS: 167.71.120.132 | 最后更新: <span id="last-update">-</span></p>
+            <p style="margin-top: 15px;"><span class="auto-badge">⚡ FULL AUTO MODE - 无需人工干预</span></p>
+        </div>
+        
+        <div class="refresh-info">每5分钟自动刷新</div>
+    </div>
+    
+    <script>
+        // Auto refresh every 5 minutes
+        setTimeout(() => location.reload(), 5 * 60 * 1000);
+        
+        // Update timestamp
+        document.getElementById('last-update').textContent = new Date().toLocaleString('zh-CN');
+    </script>
+</body>
+</html>

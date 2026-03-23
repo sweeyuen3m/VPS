@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-03-22T20:05:02.491015",
+  "disk": {
+    "usage_percent": 43,
+    "total": "67G",
+    "used": "29G",
+    "available": "39G"
+  },
+  "memory": {
+    "total_mb": 1968,
+    "used_mb": 1835,
+    "usage_percent": 93.24186991869918
+  },
+  "network": {
+    "status": "ok"
+  },
+  "processes": {
+    "python3": true,
+    "cron": true,
+    "nginx": false
+  },
+  "issues": [
+    {
+      "type": "memory",
+      "severity": "medium",
+      "message": "\u5185\u5b58\u4f7f\u7528\u7387\u8fc7\u9ad8: 93.2%",
+      "info": {
+        "total_mb": 1968,
+        "used_mb": 1835,
+        "usage_percent": 93.24186991869918
+      }
+    },
+    {
+      "type": "processes",
+      "severity": "high",
+      "message": "\u5173\u952e\u8fdb\u7a0b\u672a\u8fd0\u884c",
+      "info": {
+        "python3": true,
+        "cron": true,
+        "nginx": false
+      }
+    }
+  ],
+  "overall_status": "unhealthy"
+}

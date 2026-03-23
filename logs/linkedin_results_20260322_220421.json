@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-03-22T22:00:03.139649",
+  "messages_sent": 0,
+  "messages_failed": 5,
+  "recipients": [
+    {
+      "name": "E-commerce Manager",
+      "success": false
+    },
+    {
+      "name": "Retail Owner",
+      "success": false
+    },
+    {
+      "name": "Restaurant Manager",
+      "success": false
+    },
+    {
+      "name": "Shop Owner",
+      "success": false
+    },
+    {
+      "name": "Business Owner",
+      "success": false
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+🚀 CEO Dashboard v3.2 启动中...
+📊 访问地址: http://167.71.120.132:5000
+⚙️ 控制面板已启用: 刷新/启动/停止/备份
+ * Serving Flask app 'ceo_dashboard_server'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://167.71.120.132:5000
+Press CTRL+C to quit
+127.0.0.1 - - [22/Mar/2026 20:26:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 20:26:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 20:26:37] "GET / HTTP/1.1" 200 -
+104.28.122.110 - - [22/Mar/2026 21:10:02] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 -
+104.28.122.113 - - [22/Mar/2026 21:10:02] "GET /apple-touch-icon.png HTTP/1.1" 404 -
+104.28.122.110 - - [22/Mar/2026 21:10:02] "GET /favicon.ico HTTP/1.1" 404 -
+147.185.132.37 - - [22/Mar/2026 22:51:09] "GET / HTTP/1.1" 200 -
+95.215.0.144 - - [22/Mar/2026 23:18:41] "GET / HTTP/1.0" 200 -

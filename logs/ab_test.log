@@ -1,0 +1,3 @@
+2026-03-22 21:10:54,280 - INFO - 选择变体: 版本 1 - 价值导向 (权重: 10)
+2026-03-22 21:10:54,281 - INFO - 记录交互: linkedin_messages - linkedin_v1 - sent
+2026-03-22 21:10:54,281 - INFO - 报告已生成: /root/apex-automation/logs/ab_test_report_20260322_211054.json

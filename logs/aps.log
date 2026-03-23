@@ -1,0 +1,2614 @@
+2026-03-22 19:55:15,666 [INFO] 任务类型: classification → 引擎: llama3.2:1b (simple)
+2026-03-22 19:55:15,690 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:15,764 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:15,764 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:15,795 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:15,796 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:15,796 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:15,830 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:15,830 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:15,830 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:15,852 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:15,853 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:15,853 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:15,878 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:15,879 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:15,879 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:15,901 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:15,901 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:15,901 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:15,924 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:15,924 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:15,924 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:15,954 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:15,954 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:15,954 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:15,984 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:15,985 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:15,985 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,016 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,016 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,016 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,049 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,049 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,049 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,075 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,075 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,075 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,096 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,096 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,096 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,118 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,119 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,119 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,141 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,141 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,141 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,165 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,165 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,165 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,188 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,188 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,188 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,210 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,210 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,210 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,236 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,236 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,237 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,259 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,260 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,260 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,281 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,282 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,282 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,307 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,307 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,307 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,328 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,329 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,329 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,351 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,351 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,351 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,375 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,375 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,375 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,399 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,399 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,399 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,420 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,420 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,420 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,443 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,443 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,443 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,467 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,467 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,467 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,492 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,492 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,492 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,514 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,515 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,515 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,537 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,537 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,537 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,560 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,560 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,560 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,582 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,583 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,583 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,605 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,605 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,605 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,627 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,627 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,627 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,649 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,649 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,649 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,672 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,672 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,672 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,696 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,696 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,696 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,722 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,722 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,722 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,744 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,744 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,744 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,766 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,767 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,767 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,793 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,794 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,794 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,817 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,817 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,817 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,845 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,845 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,845 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,869 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,869 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,869 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,893 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,893 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,894 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,916 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,916 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,916 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,938 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,938 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,938 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,961 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,961 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,961 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:16,984 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:16,984 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:16,984 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,007 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,007 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,007 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,029 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,030 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,030 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,052 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,052 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,052 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,074 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,075 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,075 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,097 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,097 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,097 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,120 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,120 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,120 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,142 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,143 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,143 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,166 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,166 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,167 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,188 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,189 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,189 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,210 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,210 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,210 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,233 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,233 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,233 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,254 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,255 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,255 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,282 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,282 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,282 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,304 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,305 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,305 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,328 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,328 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,328 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,353 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,353 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,353 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,378 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,378 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,378 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,402 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,402 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,403 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,427 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,428 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,428 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,450 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,450 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,450 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,484 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,484 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,484 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,516 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,516 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,516 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,541 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,541 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,541 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,563 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,564 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,564 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,586 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,586 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,586 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,609 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,609 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,609 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,632 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,632 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,632 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,655 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,655 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,655 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,678 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,678 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,678 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,703 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,703 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,703 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,724 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,724 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,724 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,746 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,746 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,746 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,770 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,770 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,770 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,792 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,792 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,793 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,815 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,815 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,815 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,838 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,839 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,839 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,861 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,862 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,862 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,884 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,884 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,884 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,906 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,906 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,906 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,929 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,929 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,929 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,951 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,951 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,952 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,974 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,974 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,974 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:17,996 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:17,997 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:17,997 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,020 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,020 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,021 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,044 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,044 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,044 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,066 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,067 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,067 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,089 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,090 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,090 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,113 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,113 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,113 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,136 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,136 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,136 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,158 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,158 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,159 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,182 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,182 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,182 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,205 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,205 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,206 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,229 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,229 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,229 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,252 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,253 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,253 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,277 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,277 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,277 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,300 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,300 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,300 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,323 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,324 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,324 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,348 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,349 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,349 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,373 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,373 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,373 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,398 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,398 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,398 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,423 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,423 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,423 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,448 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,449 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,449 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,473 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,473 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,474 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,498 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,498 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,498 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,520 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,521 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,521 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,543 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,543 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,543 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,568 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,568 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,568 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,593 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,593 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,593 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,616 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,616 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,617 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,641 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,641 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,641 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,663 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,663 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,664 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,691 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,692 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,692 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,717 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,717 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,717 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,743 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,743 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,743 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,767 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,767 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,767 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,790 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,790 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,790 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,812 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,812 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,812 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,834 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,834 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,835 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,858 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,859 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,859 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,882 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,882 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,882 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,902 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,902 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,902 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,924 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,925 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,925 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,947 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,947 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,947 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,970 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,970 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,971 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:18,993 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:18,993 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:18,993 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,016 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,016 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,016 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,039 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,039 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,039 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,062 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,062 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,062 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,085 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,085 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,085 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,108 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,109 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,109 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,131 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,131 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,131 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,154 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,154 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,154 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,178 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,178 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,178 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,200 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,200 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,201 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,223 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,223 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,224 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,246 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,246 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,246 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,269 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,270 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,270 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,292 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,292 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,293 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,314 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,315 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,315 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,337 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,338 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,338 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,359 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,359 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,359 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,381 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,382 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,382 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,402 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,403 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,403 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,424 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,425 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,425 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,446 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,446 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,447 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,469 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,469 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,469 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,491 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,492 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,492 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,514 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,515 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,515 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,536 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,537 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,537 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,559 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,559 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,559 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,581 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,582 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,582 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,603 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,604 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,604 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,624 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,625 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,625 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,647 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,648 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,648 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,670 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,670 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,670 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,693 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,693 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,693 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,715 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,715 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,715 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,740 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,741 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,741 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,764 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,764 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,764 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,787 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,787 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,787 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,811 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,811 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,811 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,834 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,834 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,834 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,857 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,857 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,858 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,880 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,880 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,880 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,903 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,903 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,903 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,925 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,925 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,925 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,947 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,947 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,947 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,970 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,970 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,970 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:19,993 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:19,993 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:19,993 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,017 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,018 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,018 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,040 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,041 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,041 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,064 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,064 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,064 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,087 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,087 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,087 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,110 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,110 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,110 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,133 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,133 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,133 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,156 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,157 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,157 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,177 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,177 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,178 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,202 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,203 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,203 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,225 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,225 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,225 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,248 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,248 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,248 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,269 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,270 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,270 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,292 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,292 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,293 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,317 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,317 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,317 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,339 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,339 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,339 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,362 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,362 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,362 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,385 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,385 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,385 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,408 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,408 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,408 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,430 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,431 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,431 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,452 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,452 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,452 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,475 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,475 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,475 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,498 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,499 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,499 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,521 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,521 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,521 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,542 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,543 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,543 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,565 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,565 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,566 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,588 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,588 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,588 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,612 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,612 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,612 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,634 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,635 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,635 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,657 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,657 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,657 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,680 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,680 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,680 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,702 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,702 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,703 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,724 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,725 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,725 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,747 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,747 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,748 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,770 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,770 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,770 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,791 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,792 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,792 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,814 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,814 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,814 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,836 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,837 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,837 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,857 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,858 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,858 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,879 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,880 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,880 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,901 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,902 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,902 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,924 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,924 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,924 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,946 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,947 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,947 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,969 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,969 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,969 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:20,991 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:20,992 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:20,992 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,014 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,015 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,015 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,038 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,038 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,038 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,061 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,062 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,062 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,084 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,084 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,084 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,107 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,107 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,107 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,130 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,130 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,130 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,153 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,153 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,153 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,173 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,173 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,174 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,196 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,196 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,196 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,219 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,219 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,219 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,243 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,243 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,243 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,267 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,267 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,267 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,289 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,290 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,290 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,313 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,314 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,314 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,337 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,337 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,337 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,360 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,360 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,360 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,384 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,384 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,384 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,413 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,413 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,414 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,445 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,445 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,445 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,467 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,467 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,467 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,489 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,490 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,490 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,512 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,512 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,512 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,534 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,534 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,534 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,564 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,564 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,564 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,585 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,585 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,585 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,607 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,608 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,608 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,629 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,630 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,630 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,652 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,652 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,652 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,673 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,674 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,674 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,696 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,696 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,696 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,725 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,726 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,726 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,751 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,751 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,751 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,774 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,774 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,774 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,798 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,799 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,799 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,821 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,822 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,822 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,849 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,849 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,849 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,876 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,877 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,877 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,904 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,904 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,904 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,927 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,927 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,927 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,948 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,949 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,949 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,971 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,971 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,971 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:21,998 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:21,998 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:21,998 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,022 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,023 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,023 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,046 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,047 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,047 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,070 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,071 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,071 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,093 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,094 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,094 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,116 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,117 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,117 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,138 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,139 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,139 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,161 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,161 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,161 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,185 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,185 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,185 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,207 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,207 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,207 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,229 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,229 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,229 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,249 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,250 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,250 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,278 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,279 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,279 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,301 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,301 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,302 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,324 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,324 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,324 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,345 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,346 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,346 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,368 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,368 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,368 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,391 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,391 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,391 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,412 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,413 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,413 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,434 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,434 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,434 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,457 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,457 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,457 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,479 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,479 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,479 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,508 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,509 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,509 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,538 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,539 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,539 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,570 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,570 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,570 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,597 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,597 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,597 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,621 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,621 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,621 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,643 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,643 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,643 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,665 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,665 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,665 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,692 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,692 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,692 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,717 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,717 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,717 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,740 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,741 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,741 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,762 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,763 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,763 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,785 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,785 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,785 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,806 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,807 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,807 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,830 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,830 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,830 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,851 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,852 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,852 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,874 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,875 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,875 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,897 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,897 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,897 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,920 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,921 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,921 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,943 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,943 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,943 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,969 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,969 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,969 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:22,989 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:22,990 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:22,990 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,017 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,018 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,018 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,039 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,039 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,039 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,061 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,061 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,061 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,084 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,084 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,084 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,114 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,114 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,114 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,135 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,136 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,136 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,163 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,163 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,163 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,185 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,185 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,185 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,207 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,207 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,207 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,229 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,229 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,230 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,252 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,252 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,252 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,273 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,273 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,273 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,295 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,295 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,295 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,318 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,318 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,318 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,339 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,339 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,339 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,360 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,360 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,360 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,382 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,383 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,383 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,410 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:55:23,411 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:55:23,411 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:55:23,432 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:10,739 [INFO] 任务类型: classification → 引擎: llama3.2:1b (simple)
+2026-03-22 19:56:10,762 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:10,805 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:10,805 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:10,826 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:10,826 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:10,826 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:10,847 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:10,848 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:10,848 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:10,871 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:10,871 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:10,871 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:10,892 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:10,892 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:10,893 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:10,915 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:10,915 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:10,915 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:10,941 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:10,941 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:10,942 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:10,969 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:10,969 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:10,969 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:10,990 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:10,990 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:10,990 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,013 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,013 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,013 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,035 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,035 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,035 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,056 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,057 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,057 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,085 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,085 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,086 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,116 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,117 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,117 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,142 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,142 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,142 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,163 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,163 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,163 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,184 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,184 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,185 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,207 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,207 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,208 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,234 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,234 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,234 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,258 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,258 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,258 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,281 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,281 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,281 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,304 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,304 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,304 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,327 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,327 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,327 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,353 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,354 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,354 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,381 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,381 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,381 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,403 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,404 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,404 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,431 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,431 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,431 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,454 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,454 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,454 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,476 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,477 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,477 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,500 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,500 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,500 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,524 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,524 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,524 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,547 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,547 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,547 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,569 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,570 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,570 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,593 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,593 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,593 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,615 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,615 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,615 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,638 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,638 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,638 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,661 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,661 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,661 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,685 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,685 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,685 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,706 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,706 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,706 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,730 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,730 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,730 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,753 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,753 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,753 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,775 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,775 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,775 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,797 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,797 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,798 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,819 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,819 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,819 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,840 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,841 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,841 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,863 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,863 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,863 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,884 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,884 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,884 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,906 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,907 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,907 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,929 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,929 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,929 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,950 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,950 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,950 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,972 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,972 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,972 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:11,996 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:11,996 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:11,997 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,019 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,020 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,020 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,043 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,043 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,043 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,066 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,066 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,066 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,090 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,090 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,090 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,112 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,112 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,112 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,133 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,134 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,134 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,157 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,157 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,157 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,179 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,180 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,180 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,202 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,202 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,203 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,226 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,226 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,226 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,253 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,253 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,253 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,279 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,279 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,279 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,300 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,300 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,300 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,324 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,325 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,325 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,346 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,347 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,347 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,368 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,368 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,368 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,391 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,392 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,392 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,415 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,415 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,415 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,438 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,438 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,438 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,464 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,464 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,464 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,489 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,489 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,489 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,512 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,512 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,512 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,534 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,534 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,534 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,556 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,556 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,556 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,578 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,578 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,578 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,600 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,600 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,600 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,622 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,622 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,622 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,644 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,644 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,644 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,666 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,667 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,667 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,690 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,690 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,690 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,712 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,713 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,713 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,735 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,735 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,735 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,757 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,757 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,757 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,778 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,778 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,778 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,799 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,799 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,800 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,821 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,822 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,822 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,844 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,845 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,845 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,866 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,866 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,866 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,888 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,888 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,889 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,911 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,911 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,911 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,935 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,935 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,935 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,957 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,957 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,957 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:12,979 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:12,979 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:12,979 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,000 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,001 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,001 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,025 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,025 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,025 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,046 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,046 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,046 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,067 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,067 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,067 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,090 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,090 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,090 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,118 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,118 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,118 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,147 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,148 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,148 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,169 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,169 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,169 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,196 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,196 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,196 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,220 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,220 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,220 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,243 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,243 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,243 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,264 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,264 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,264 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,287 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,287 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,287 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,310 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,310 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,310 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,333 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,333 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,334 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,356 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,356 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,356 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,377 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,377 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,377 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,400 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,400 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,400 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,422 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,422 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,422 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,443 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,443 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,443 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,464 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,464 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,464 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,485 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,486 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,486 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,509 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,509 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,509 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,531 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,532 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,532 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,554 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,554 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,554 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,576 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,576 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,576 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,597 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,598 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,598 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,619 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,619 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,619 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,646 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,646 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,646 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,677 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,677 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,677 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,707 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,707 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,707 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,736 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,736 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,736 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,765 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,765 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,765 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,789 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,789 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,789 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,811 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,811 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,812 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,833 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,833 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,833 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,856 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,856 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,856 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,878 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,878 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,878 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,902 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,902 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,902 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,927 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,927 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,927 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,954 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,954 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,954 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:13,977 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:13,978 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:13,978 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,003 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,004 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,004 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,033 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,033 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,033 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,062 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,063 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,063 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,088 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,089 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,089 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,111 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,111 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,111 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,134 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,134 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,134 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,158 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,159 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,159 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,183 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,183 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,184 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,209 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,209 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,209 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,233 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,234 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,234 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,256 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,257 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,257 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,282 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,283 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,283 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,313 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,314 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,314 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,340 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,341 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,341 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,367 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,367 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,367 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,389 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,389 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,389 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,410 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,411 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,411 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,432 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,432 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,432 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,454 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,454 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,454 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,475 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,476 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,476 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,497 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,497 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,497 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,519 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,520 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,520 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,541 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,542 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,542 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,565 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,565 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,565 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,587 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,587 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,587 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,609 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,609 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,609 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,631 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,631 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,631 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,654 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,654 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,654 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,676 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,676 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,676 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,699 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,700 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,700 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,722 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,722 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,722 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,747 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,747 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,747 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,768 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,768 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,768 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,790 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,790 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,790 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,813 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,813 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,813 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,835 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,836 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,836 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,860 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,860 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,860 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,882 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,882 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,882 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,904 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,904 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,904 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,927 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,927 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,927 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,948 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,949 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,949 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,971 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,972 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,972 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:14,994 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:14,994 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:14,994 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,016 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,016 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,016 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,037 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,038 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,038 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,061 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,061 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,062 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,084 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,084 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,084 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,106 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,106 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,106 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,128 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,128 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,128 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,150 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,150 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,150 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,171 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,171 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,171 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,192 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,192 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,192 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,215 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,215 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,215 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,236 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,236 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,236 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,257 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,258 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,258 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,285 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,285 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,285 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,314 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,314 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,315 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,345 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,345 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,345 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,374 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,374 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,374 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,405 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,406 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,406 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,435 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,436 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,436 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,458 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,458 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,458 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,479 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,479 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,479 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,501 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,501 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,501 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,523 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,523 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,523 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,544 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,544 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,544 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,566 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,566 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,566 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,587 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,587 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,587 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,608 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,608 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,608 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,630 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,630 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,630 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,653 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,653 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,653 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,674 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,674 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,674 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,696 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,696 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,696 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,718 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,718 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,718 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,739 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,740 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,740 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,761 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,761 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,761 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,782 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,782 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,782 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,803 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,803 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,803 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,825 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,826 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,826 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,847 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,847 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,847 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,868 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,868 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,868 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,888 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,889 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,889 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,910 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,910 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,911 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,932 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,932 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,932 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,953 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,953 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,953 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,974 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,974 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,974 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:15,994 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:15,995 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:15,995 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,017 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,017 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,017 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,038 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,038 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,038 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,060 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,060 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,060 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,082 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,082 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,082 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,104 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,104 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,104 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,125 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,125 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,125 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,146 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,147 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,147 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,169 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,169 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,169 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,190 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,190 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,191 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,212 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,212 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,212 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,233 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,234 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,234 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,265 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,265 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,265 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,288 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,288 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,288 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,310 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,310 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,310 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,332 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,332 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,332 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,353 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,353 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,353 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,374 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,375 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,375 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,396 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,397 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,397 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,418 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,418 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,418 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,438 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,439 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,439 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,460 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,460 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,460 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,481 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,482 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,482 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,510 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,511 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,511 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,539 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,539 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,540 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,563 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,563 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,563 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,585 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,585 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,585 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,607 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,607 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,607 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,628 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,628 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,628 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,649 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,650 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,650 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,672 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,672 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,672 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,699 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,699 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,699 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,721 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,721 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,721 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,742 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,742 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,742 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,762 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,763 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,763 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,784 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,784 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,784 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,804 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,804 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,804 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,825 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,825 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,825 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,846 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,847 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,847 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,875 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,875 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,875 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,903 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,904 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,904 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,928 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,928 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,928 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,949 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,950 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,950 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,971 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,971 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,971 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:16,992 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:16,993 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:16,993 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,014 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,014 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,014 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,036 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,036 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,036 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,057 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,057 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,058 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,080 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,080 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,080 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,101 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,102 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,102 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,123 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,123 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,123 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,143 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,143 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,143 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,165 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,165 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,165 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,187 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,187 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,187 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,209 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,209 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,209 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,229 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,229 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,229 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,251 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,251 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,251 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,277 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,277 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,277 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,299 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,299 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,299 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,320 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,320 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,320 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,342 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,343 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,343 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,365 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,365 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,365 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,387 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,388 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,388 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,416 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,416 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,416 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,445 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,445 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,445 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,469 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,469 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,469 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,493 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,493 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,493 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,515 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,516 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,516 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,538 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,538 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,538 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,561 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,561 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,561 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,582 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,582 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,582 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,603 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,603 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,603 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,625 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,626 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,626 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,647 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,647 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,647 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,669 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,669 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,669 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,692 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,692 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,692 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,713 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,714 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,714 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,737 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,737 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,737 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,758 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,759 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,759 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,781 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,781 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,781 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,803 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,803 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,803 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,824 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,824 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,824 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,846 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,846 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,846 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,868 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,868 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,868 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,889 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,889 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,889 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,911 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,911 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,911 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,932 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,933 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,933 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,955 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,955 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,955 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:17,977 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:17,978 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:17,978 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:18,000 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:18,000 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:18,000 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:18,023 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:18,023 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:18,023 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:18,044 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:18,045 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:18,045 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:18,067 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:18,067 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:18,067 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:18,087 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:18,088 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:18,088 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:18,109 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:18,109 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:18,109 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:18,132 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:18,132 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:18,132 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:18,154 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:18,154 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:18,155 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:18,176 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:18,176 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:18,176 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:18,198 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:18,198 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:18,198 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:18,220 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:18,221 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:18,221 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:18,243 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:18,244 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:18,244 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:18,267 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:18,267 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:18,267 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:18,289 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
+2026-03-22 19:56:18,289 [ERROR] Gemini API 执行失败: 未配置 GEMINI_API_KEY
+2026-03-22 19:56:18,289 [WARNING] Colab Pro 集成待完善，降级到本地模型
+2026-03-22 19:56:18,310 [ERROR] 本地模型执行失败: Ollama 执行失败: Error: unknown flag: --temperature
+
