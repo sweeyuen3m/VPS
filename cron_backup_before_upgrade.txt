@@ -1,0 +1,79 @@
+# ============================================================
+# APEX SPEED LABS - 全平台自动化系统 v3.2 (优化版)
+# 更新时间: 2026-03-23
+# 状态: FULLY AUTOMATED + 资源优化
+# ============================================================
+
+# 每 5 分钟：性能监控（保持）
+*/5 * * * * cd /root/apex-automation && ./performance-monitor.sh >> /root/apex-automation/logs/performance.log 2>&1
+
+# 每小时：财务监控（保持）
+5 * * * * cd /root/apex-automation && ./finance-monitor.sh >> /root/apex-automation/logs/finance.log 2>&1
+
+# LinkedIn 改为每 4 小时（10,14,18,22点）- 错峰执行
+0 10,14,18,22 * * * cd /root/apex-automation && python3 linkedin_playwright_auto.py >> /root/apex-automation/logs/linkedin.log 2>&1
+
+# Twitter/X 每 6 小时（2,8,14,20点）- 错峰执行
+0 2,8,14,20 * * * cd /root/apex-automation && python3 twitter_auto.py >> /root/apex-automation/logs/twitter.log 2>&1
+
+# TikTok 每天 3 次（9,15,21点）- 保持
+0 9,15,21 * * * cd /root/apex-automation && python3 tiktok_auto.py >> /root/apex-automation/logs/tiktok.log 2>&1
+
+# YouTube 每天 1 次（11点）- 错峰
+0 11 * * * cd /root/apex-automation && python3 youtube_auto.py >> /root/apex-automation/logs/youtube.log 2>&1
+
+# 小红书 每天 3 次（8,13,18点）- 错峰
+0 8,13,18 * * * cd /root/apex-automation && python3 xiaohongshu_auto.py >> /root/apex-automation/logs/xiaohongshu.log 2>&1
+
+# 抖音 每天 3 次（10,16,22点）- 错峰
+0 10,16,22 * * * cd /root/apex-automation && python3 douyin_auto.py >> /root/apex-automation/logs/douyin.log 2>&1
+
+# Instagram 每天 4 次（7,12,17,22点）- 保持
+0 7,12,17,22 * * * cd /root/apex-automation && python3 instagram_auto.py >> /root/apex-automation/logs/instagram.log 2>&1
+
+# Facebook 每天 2 次（8,20点）- 保持
+0 8,20 * * * cd /root/apex-automation && python3 facebook_auto.py >> /root/apex-automation/logs/facebook.log 2>&1
+
+# WhatsApp 每 2 小时（整点）- 降低频率
+0 */2 * * * cd /root/apex-automation && python3 whatsapp_auto.py >> /root/apex-automation/logs/whatsapp.log 2>&1
+
+# 微信 每天 2 次（9,15点）- 降低频率
+0 9,15 * * * cd /root/apex-automation && python3 wechat_auto.py >> /root/apex-automation/logs/wechat.log 2>&1
+
+# USDC 监控 每 30 分钟 - 降低频率
+*/30 * * * * cd /root/apex-automation && python3 usdc_monitor.py >> /root/apex-automation/logs/usdc.log 2>&1
+
+# Leads 跟进 每天 2 次（11,16点）- 错峰
+0 11,16 * * * cd /root/apex-automation && python3 leads_followup_automation.py >> /root/apex-automation/logs/leads.log 2>&1
+
+# 视频上传 每天 1 次（12点）- 保持
+0 12 * * * cd /root/apex-automation && python3 video_uploader.py >> /root/apex-automation/logs/video.log 2>&1
+
+# 12平台监督 每 2 小时（5分时）- 降低频率
+5 */2 * * * cd /root/apex-automation && python3 12_platform_supervision.py >> /root/apex-automation/logs/supervision.log 2>&1
+
+# 自我修复 每 2 小时（10分时）- 降低频率
+10 */2 * * * cd /root/apex-automation && python3 self_healing_system.py >> /root/apex-automation/logs/healing.log 2>&1
+
+# 每日 8AM 健康检查
+0 8 * * * cd /root/apex-automation && ./health-check.sh >> /root/apex-automation/logs/health.log 2>&1
+
+# 每日 23:59 备份
+59 23 * * * cd /root/apex-automation && ./auto-backup.sh >> /root/apex-automation/logs/backup.log 2>&1
+
+# 每周一 9AM 周报
+0 9 * * 1 cd /root/apex-automation && python3 weekly_report_generator.py >> /root/apex-automation/logs/weekly.log 2>&1
+
+# 每分钟 Dashboard 保活（保持）
+* * * * * pgrep -f "dashboard/app.py" || cd /root/apex-automation && python3 dashboard/app.py > logs/dashboard.log 2>&1 &
+
+# 每日 8AM,12PM,6PM 汇报
+0 8,12,18 * * * cd /root/apex-automation && python3 daily_report_v2.py >> logs/daily_report.log 2>&1
+
+# CEO Dashboard 保活（保持）
+* * * * * pgrep -f ceo_dashboard_server || cd /root/apex-automation && nohup python3 ceo_dashboard_server.py > logs/dashboard.log 2>&1 &
+
+# Netdata 监控 每 5 分钟（保持）
+*/5 * * * * cd /root/apex-automation && python3 integrate_netdata.py >> /root/apex-automation/logs/netdata.log 2>&1
+# 自动跟进系统 - 每天 2 次 (9,16点)
+0 9,16 * * * cd /root/apex-automation && python3 automated_followup_system.py >> /root/apex-automation/logs/followup.log 2>&1
