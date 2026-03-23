@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lead_001",
+    "client_id": "demo_client_001",
+    "name": "John Tan",
+    "company": "ERA Singapore",
+    "status": "new",
+    "created": "2026-03-23T02:45:37.942811"
+  },
+  {
+    "id": "lead_002",
+    "client_id": "demo_client_001",
+    "name": "Sarah Lee",
+    "company": "OrangeTee",
+    "status": "qualified",
+    "created": "2026-03-21T02:45:37.942818"
+  },
+  {
+    "id": "lead_003",
+    "client_id": "demo_client_001",
+    "name": "Mike Wong",
+    "company": "Huttons Asia",
+    "status": "contacted",
+    "created": "2026-03-18T02:45:37.942825"
+  }
+]
