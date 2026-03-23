@@ -1,1 +1,1 @@
-.env
+.env\nvenv/\n__pycache__/\n*.pyc\nlogs/\ndata/
